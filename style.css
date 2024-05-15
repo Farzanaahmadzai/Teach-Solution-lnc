@@ -98,17 +98,13 @@ h2{
     
 
 }
-/* .footer-section{
 
-    margin: 0;
-   
-    background-color:rgb(234, 239, 247);;
-
-    text-align: center;
-} */
+iframe{
+    margin-bottom: 10px;
+}
 .footer{
     margin: 0;
-    /* height: 150px; */
+
     background-color:rgb(234, 239, 247);;
 
     text-align: center;
@@ -130,6 +126,7 @@ h2{
     margin-bottom: 150px;
 
 }
+
 .testimonials-section{
      background-color:rgb(234, 239, 247); ;
     margin-top: 100px;
